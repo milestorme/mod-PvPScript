@@ -2,6 +2,7 @@
 #include "Player.h"
 #include "Creature.h"
 #include "AccountMgr.h"
+#include "ScriptedAI/ScriptedCreature.h"
 #include "ScriptMgr.h"
 #include "Define.h"
 #include "GossipDef.h"
